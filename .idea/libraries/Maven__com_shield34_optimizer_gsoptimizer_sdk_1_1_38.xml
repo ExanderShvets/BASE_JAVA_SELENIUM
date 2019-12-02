@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.shield34.optimizer:gsoptimizer-sdk:1.1.38">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shield34/optimizer/gsoptimizer-sdk/1.1.38/gsoptimizer-sdk-1.1.38.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shield34/optimizer/gsoptimizer-sdk/1.1.38/gsoptimizer-sdk-1.1.38-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/shield34/optimizer/gsoptimizer-sdk/1.1.38/gsoptimizer-sdk-1.1.38-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
